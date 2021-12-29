@@ -304,7 +304,7 @@ html {
 }
 html,
 body {
-  font-family: var(--font-family-sans-serif);
+  font-family: Noto Serif SC;
 }
 html,
 body,
@@ -899,7 +899,7 @@ label {
 .markdown-body {
   font-size: 1rem;
   line-height: 1.6;
-  font-family: var(--font-family-sans-serif);
+  font-family: Noto Serif SC;
   margin-bottom: 2rem;
   color: var(--post-text-color);
 }
